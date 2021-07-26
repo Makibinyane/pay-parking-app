@@ -5,11 +5,11 @@ Project Setup The use should have Android Studio IDE Version 4 and above Clone t
 
 Application Compilation
 
-After cloning the application navigate to the folder you cloned it to and Open it
-Upon synching the project locally Run the project
-You will land into the pay ticket screen
-Read the Parking notice before populating the data
-Enter the parking duration
-After the duration has been entered the Parking cost will be autocalculated
-Enter the amount to pay for parking
-Then click pay ticket button
+After cloning the application navigate to the folder you cloned it to and Open it.
+Upon synching the project locally Run the project.
+You will land into the pay ticket screen.
+Read the Parking notice before populating the data.
+Enter the parking duration.
+After the duration has been entered the Parking cost will be autocalculated.
+Enter the amount to pay for parking.
+Then click pay ticket button.
