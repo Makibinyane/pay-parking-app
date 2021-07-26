@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin">0dp</dimen>
+    <dimen name="label_font_size">18sp</dimen>
+    <dimen name="margin_start">2dp</dimen>
+    <dimen name="top_elements_margin_top">40dp</dimen>
+    <dimen name="element_value_margin_end">20dp</dimen>
+    <dimen name="common_margin">16dp</dimen>
+    <dimen name="element_label_margin_end">5dp</dimen>
+    <dimen name="margin_top_10">10dp</dimen>
+    <dimen name="margin_top_14">14dp</dimen>
+    <dimen name="edit_text_padding">5dp</dimen>
+    <dimen name="edit_text_font_size">8pt</dimen>
+    <dimen name="button_margin_start">20dp</dimen>
+
+
+</resources>

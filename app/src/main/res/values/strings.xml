@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">parking-payment-app</string>
+    <string name="payment_fragment_title">Parking Ticket Payment</string>
+    <string name="parking_duration_label">Parking Duration:</string>
+    <string name="parking_cost_label">Parking Cost:</string>
+    <string name="parking_payment_amount">Payment Amount:</string>
+    <string name="parking_returned_amount">Returned Amount:</string>
+    <string name="payment_button">Pay ticket</string>
+    <string name="ticket_no">Ticket No:</string>
+    <string name="parking_cost_error_message">Please enter parking duration and make parking payment</string>
+    <string name="less_payment_amount_error">Please make a payment of not less than %1$s</string>
+    <string name="returned_amount_denominations_heading">Returned Amount Denominations:</string>
+    <string name="currency_symbol">R %1$s</string>
+    <string name="ticket_number">TK%1$s</string>
+</resources>
